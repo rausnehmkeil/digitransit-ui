@@ -1564,13 +1564,12 @@ babel-plugin-macros@^2.0.0:
     cosmiconfig "^5.0.5"
     resolve "^1.8.1"
 
-babel-plugin-relay@1.7.0:
-  version "1.7.0"
-  resolved "https://registry.yarnpkg.com/babel-plugin-relay/-/babel-plugin-relay-1.7.0.tgz#d1665aad931e2f44c1e652819414edd2b1aafb3c"
+babel-plugin-relay@7.1.0:
+  version "7.1.0"
+  resolved "https://registry.yarnpkg.com/babel-plugin-relay/-/babel-plugin-relay-7.1.0.tgz#adf5e5dff9f5631d7a6547c460b1a4e9f501713a"
+  integrity sha512-KshZBzjOIovWrdlBjbR+ARvPN5UUJa30KWLyNuxf32WrJij+tOiQTWE1ieN2MHeVpJZUhzBKx7S49Xrm8ALwyA==
   dependencies:
     babel-plugin-macros "^2.0.0"
-    babel-runtime "^6.23.0"
-    babel-types "^6.24.1"
 
 babel-plugin-syntax-class-properties@^6.8.0:
   version "6.13.0"
