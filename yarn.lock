@@ -7748,9 +7748,10 @@ mocha@5.2.0:
     mkdirp "0.5.1"
     supports-color "5.4.0"
 
-mock-local-storage@1.1.8:
-  version "1.1.8"
-  resolved "https://registry.yarnpkg.com/mock-local-storage/-/mock-local-storage-1.1.8.tgz#82a3f7c666bf955d64b286cb71207478f1a29bf7"
+mock-local-storage@1.1.11:
+  version "1.1.11"
+  resolved "https://registry.yarnpkg.com/mock-local-storage/-/mock-local-storage-1.1.11.tgz#2a36faeb30f76ef3c5005460b6bbf12f19555811"
+  integrity sha512-71sytP93tB0CkPbacafcP1iTVj9ssXU+ztRmx1MrS488JpO0az5d2sx+SNuvhGVSW56XO5M0f82uFhxteZEp9w==
   dependencies:
     core-js "^0.8.3"
     global "^4.3.2"
